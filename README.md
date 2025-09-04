@@ -13,7 +13,4 @@ I used the pre-trained **MobileNetV2** model, froze its base layers, and trained
 * **Model Saving & Loading:** The professional workflow of training a model once and saving it for later use in deployment.
 * **Interactive Deployment:** Building a user-friendly web interface with Gradio for real-time inference on user-uploaded images.
 
-### Interactive Demo
-Here is a demonstration of the final deployed application:
 
-![Live Demo of the Transfer Learning Classifier](link_to_your_video_or_gif.gif)
